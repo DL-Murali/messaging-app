@@ -43,7 +43,7 @@ RealChat is a chat application build with Node.js and Typescript. It provides a 
 ---
 ## Run locally
 
-1. Clone the repo
+1. Clone the repo.
 
    ```bash
    git clone https://github.com/DL-Murali/messaging-app.git
